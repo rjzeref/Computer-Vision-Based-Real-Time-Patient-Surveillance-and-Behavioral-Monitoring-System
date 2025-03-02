@@ -7,7 +7,7 @@ This repository contains the official **documentation** for the **patent** ;
 📌 **Patent Application Number**: *202331064123*  
 📌 **Filed Year**: *2023*  
 
-**Inventor**: *Roumo Kundu et al. *  
+**Inventor**: *Roumo Kundu et al.*  
 
 
 🔍 **Keywords**: AI in Healthcare, Computer Vision, IoT, Patient Surveillance, Edge AI  
