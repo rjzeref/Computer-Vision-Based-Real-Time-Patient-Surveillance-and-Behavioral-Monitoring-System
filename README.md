@@ -6,6 +6,8 @@ This repository contains the official **documentation** for the **patent** ;
 📌 **Patent Title**: *Computer Vision-Based Real-Time Patient Surveillance and Behavioral Monitoring System*  
 📌 **Patent Application Number**: *202331064123*  
 📌 **Filed Year**: *2023*  
+<img width="1174" height="525" alt="Screenshot 2026-07-03 at 2 25 28 AM" src="https://github.com/user-attachments/assets/5e3ffb55-9c3a-4bd2-9352-c13e65335f01" />
+
 
 **Inventor**: *Roumo Kundu et al.*  
 
